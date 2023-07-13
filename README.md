@@ -8,7 +8,7 @@ Atividade prática de simulação para cração de documentação com SWAGGER de
 * `npm swagger-jsdocs`
 * `npm swagger-ui-express` 
 
-## Etapas
+# Etapas
 
 * Baixe o projeto do github e extraia para seu computador
 * Abra o VsCode e abra a pasta do arquivo salvo acima
