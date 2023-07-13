@@ -10,8 +10,8 @@ Atividade prática de simulação para cração de documentação com SWAGGER de
 
 # Etapas
 
-- Baixe o projeto do github e extraia para seu computador
-- Abra o VsCode e abra a pasta do arquivo salvo acima
+- Faça o download do arquivo.
+- Acesse o endereço da pasta no diretório local.
 
 # Bibliotécas Necessárias
 
@@ -20,4 +20,4 @@ Atividade prática de simulação para cração de documentação com SWAGGER de
 
 # Acessando 
 
-- http://localhost:5000/api-docs.
+- http://localhost:5000/api-docs
