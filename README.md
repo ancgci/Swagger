@@ -10,10 +10,14 @@ Atividade prática de simulação para cração de documentação com SWAGGER de
 
 # Etapas
 
-* Baixe o projeto do github e extraia para seu computador
-* Abra o VsCode e abra a pasta do arquivo salvo acima
+- Baixe o projeto do github e extraia para seu computador
+- Abra o VsCode e abra a pasta do arquivo salvo acima
 
-* `npm install -save swagger-jsdoc swagger-ui-express express nodemon`
-* `npm start`
+# Bibliotécas Necessárias
 
-* Abra um  browser e acesse sua documentação:  http://localhost:5000/api-docs.
+- `npm install -save swagger-jsdoc swagger-ui-express express nodemon`
+- `npm start`
+
+# Acessando 
+
+- http://localhost:5000/api-docs.
