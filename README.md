@@ -1,13 +1,12 @@
 # Criando uma documentação com SWAGGER para projetos NodeJS
 
-Tutorial para gerar automaticamente API docs
+Atividade prática de simulação para cração de documentação com SWAGGER de cunho didático em aprendizado continuo referente ao curso de Analista de Teste de Software pela [Ultima School](https://ultima.school/courses/) com base no modelo do tutor [Carlos Eduardo](https://github.com/carloseduardo1984/)
 
-Referencias: 
+
+# Voce vai precisar: 
+
 * `npm swagger-jsdocs`
 * `npm swagger-ui-express` 
-* https://swagger.io/ 
-
-Github > 
 
 ## Etapas
 
